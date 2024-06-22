@@ -1,0 +1,5 @@
+- A GenAI chat bot that can handle multiple document artifacts to generate answer using RAG approach.
+- Langchain Framework integration with Ollama for model configuration.
+- Streamlit Ui.
+- ChromaDb setup to handle Vector represantations.
+- Url data support
